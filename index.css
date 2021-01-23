@@ -1,0 +1,19 @@
+body {
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+body > div {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+a:link, a:visited {
+	color: #307D7E;
+}
